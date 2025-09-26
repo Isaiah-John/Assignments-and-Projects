@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Isaiah-John/Assignments-and-Projects](https://github.com/Isaiah-John/Assignments-and-Projects)
 
-- 📝 Relevant Courses [CSP 544 - Advance Computer Security/System and Network Security | CSP 554 - Big Data Technologies | CS 350 - Computer Organization and Assembly Language Programming | ITMD 321 - Data Modeling and Applications | CS 528 - Data Privacy and Security/Cryptography | CS 331 - Data Structures and Algorithms | CS 425 - Database Organization | ITMS 428 - Database Security | CS 330 - Discrete Structures | CS 430 - Intro to Algorithms | CS 487 - Software Engineering | CS 351 - Systems Programming](CSP 544 - Advance Computer Security/System and Network Security | CSP 554 - Big Data Technologies | CS 350 - Computer Organization and Assembly Language Programming | ITMD 321 - Data Modeling and Applications | CS 528 - Data Privacy and Security/Cryptography | CS 331 - Data Structures and Algorithms | CS 425 - Database Organization | ITMS 428 - Database Security | CS 330 - Discrete Structures | CS 430 - Intro to Algorithms | CS 487 - Software Engineering | CS 351 - Systems Programming)
+- 📝 Relevant Courses [CSP 544 - Advance Computer Security/System and Network Security | CSP 554 - Big Data Technologies | CS 350 - Computer Organization and Assembly Language Programming | ITMD 321 - Data Modeling and Applications | CS 528 - Data Privacy and Security/Cryptography | CS 331 - Data Structures and Algorithms | CS 425 - Database Organization | ITMS 428 - Database Security | CS 330 - Discrete Structures | CS 430 - Intro to Algorithms | CS 487 - Software Engineering | CS 351 - Systems Programming]
 
 - 📫 How to reach me **isaiahkjohn26@gmail.com**
 
