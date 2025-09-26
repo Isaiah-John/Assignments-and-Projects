@@ -1,13 +1,17 @@
 <h1 align="center">Hi 👋, I'm Isaiah John</h1>
 <h3 align="center">Illinois Institute of Technology - B.S Computer Information Systems - M.A.S Cybersecurity - Minor Information Security</h3>
 
-- 🔭 I’m currently working on **Home-Lab**
+- 🔭 I’m currently working on **making a Home Lab**
 
-- 🌱 I’m currently learning **Web development**
+- 🌱 I’m currently learning **web development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Isaiah-John/Assignments-and-Projects](https://github.com/Isaiah-John/Assignments-and-Projects)
 
+- 📝 Relevant Courses [CSP 544 - Advance Computer Security/System and Network Security | CSP 554 - Big Data Technologies | CS 350 - Computer Organization and Assembly Language Programming | ITMD 321 - Data Modeling and Applications | CS 528 - Data Privacy and Security/Cryptography | CS 331 - Data Structures and Algorithms | CS 425 - Database Organization | ITMS 428 - Database Security | CS 330 - Discrete Structures | CS 430 - Intro to Algorithms | CS 487 - Software Engineering | CS 351 - Systems Programming](CSP 544 - Advance Computer Security/System and Network Security | CSP 554 - Big Data Technologies | CS 350 - Computer Organization and Assembly Language Programming | ITMD 321 - Data Modeling and Applications | CS 528 - Data Privacy and Security/Cryptography | CS 331 - Data Structures and Algorithms | CS 425 - Database Organization | ITMS 428 - Database Security | CS 330 - Discrete Structures | CS 430 - Intro to Algorithms | CS 487 - Software Engineering | CS 351 - Systems Programming)
+
 - 📫 How to reach me **isaiahkjohn26@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1cu-4COEngXR6ILWJKGDhSXLe1u1Mjvyg/view?usp=drive_link](https://drive.google.com/file/d/1cu-4COEngXR6ILWJKGDhSXLe1u1Mjvyg/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
