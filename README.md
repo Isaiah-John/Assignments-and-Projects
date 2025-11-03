@@ -9,18 +9,22 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1cu-4COEngXR6ILWJKGDhSXLe1u1Mjvyg/view?usp=drive_link](https://drive.google.com/file/d/1cu-4COEngXR6ILWJKGDhSXLe1u1Mjvyg/view?usp=drive_link)
 - 📝 Relevant Courses
+  - CS 115 - Object Orientated Porgramming 1
+  - CS 116 - Object Orientated Porgramming 2
+  - CS 330 - Discrete Structures
+  - CS 331 -  Data Structures and Algorithms
+  - CS 350 - Computer Organization and Assembly Language Programming
+  - CS 351 - Systems Programming
+  - CS 425 - Database Organization
+  - CS 458 - Introduction to Information Security
+  - CS 487 - Software Engineering
+  - CS 528 - Data Privacy and Security/Cryptography
   - CSP 544 - Advance Computer Security/System and Network Security
   - CSP 554 - Big Data Technologies
-  - CS 350 - Computer Organization and Assembly Language Programming
   - ITMD 321 - Data Modeling and Applications
-  - CS 528 - Data Privacy and Security/Cryptography
-  - CS 331 - Data Structures and Algorithms
-  - CS 425 - Database Organization
+  - ITMO 340 - Introduction to Data Networks and the Internet
   - ITMS 428 - Database Security
-  - CS 330 - Discrete Structures
-  - CS 430 - Intro to Algorithms
-  - CS 487 - Software Engineering
-  - CS 351 - Systems Programming
+  - ITMS 448 - Cyber Security Technologies
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
