@@ -3,10 +3,6 @@
 
 - 🔭 I’m currently working on **making a Home Lab**
 
-- 🌱 I’m currently learning **web development**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Isaiah-John/Assignments-and-Projects](https://github.com/Isaiah-John/Assignments-and-Projects)
-
 
 
 - 📫 How to reach me **isaiahkjohn26@gmail.com**
