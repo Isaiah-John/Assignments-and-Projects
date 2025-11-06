@@ -14,6 +14,7 @@
     - CS 528 - Data Privacy and Security/Cryptography
     - CSP 544 - Advance Computer Security/System and Network Security
     - ITMS 428 - Database Security
+    - ITMS 448 - Cyber Security Technologies
     
   - Programming Courses
     - CS 115 - Object Orientated Porgramming 1
@@ -28,7 +29,7 @@
     - CS 425 - Database Organization
     - CSP 554 - Big Data Technologies
     - ITMD 321 - Data Modeling and Applications
-    - ITMS 448 - Cyber Security Technologies
+    
   
   - Network Courses
     - ITMO 340 - Introduction to Data Networks and the Internet
