@@ -17,8 +17,8 @@
     - ITMS 448 - Cyber Security Technologies
     
   - Programming Courses
-    - CS 115 - Object Orientated Porgramming 1
-    - CS 116 - Object Orientated Porgramming 2
+    - CS 115 - Object Oriented Programming 1
+    - CS 116 - Object Oriented Programming 2
     - CS 330 - Discrete Structures
     - CS 331 -  Data Structures and Algorithms
     - CS 350 - Computer Organization and Assembly Language Programming
